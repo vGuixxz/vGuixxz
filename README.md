@@ -39,7 +39,7 @@ Tenho focado meus estudos em desenvolvimento de software backend com **Java** (P
 
 ### 📌 Principais Projetos
 
-* 📦 **[Sistema de Controle de Exportação e Importação](https://github.com/vGuixxz)**: Aplicação desenvolvida em **Java** com conexão a banco de dados relacional **MySQL** (operações completas de CRUD) para controle e conferência de fluxo operacional de cargas.
+* 🚛 **[Sistema de Controle de Pátio e Cargas](https://github.com/vGuixxz/controle-de-patio-java)**: Aplicação desenvolvida em **Java** com persistência em banco de dados relacional **MySQL** (operações de CRUD com padrão DAO) para controle e conferência de fluxo operacional de caminhões e cargas.
 
 ---
 
