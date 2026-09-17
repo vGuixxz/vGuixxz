@@ -4,7 +4,7 @@
 
 Olá! Sou o Guilherme, tenho 22 anos, moro em São Paulo - SP e atualmente estou cursando o **5º semestre de Ciência da Computação na Universidade Paulista (UNIP)**.
 
-Tenho focado meus estudos em desenvolvimento de software backend com **Java** (Programação Orientada a Objetos e lógica estruturada), modelagem e consultas em **Banco de Dados Relacional (SQL / MySQL)** e controle de versão com **Git/GitHub**. Busco constantemente aplicar na prática o que aprendo através de projetos reais e cursos complementares.
+Tenho focado meus estudos em desenvolvimento de software backend com **Java** (Programação Orientada a Objetos e lógica estruturada), modelagem e consultas em **Banco de Dados Relacional (SQL / MySQL)** e controle de versão com **Git/GitHub**. Busco aplicar constantemente na prática o que aprendo através de projetos reais e cursos complementares.
 
 ---
 
@@ -30,25 +30,30 @@ Tenho focado meus estudos em desenvolvimento de software backend com **Java** (P
   &nbsp;&nbsp;
   <img title="Git" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   &nbsp;&nbsp;
-  <img title="GitHub" alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <img title="GitHub" alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="background-color: white; border-radius: 4px; padding: 2px;"/>
   &nbsp;&nbsp;
   <img title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 </p>
 
 ---
 
+### 📌 Principais Projetos
+
+* 📦 **[Sistema de Controle de Exportação e Importação](https://github.com/vGuixxz)**: Aplicação desenvolvida em **Java** com conexão a banco de dados relacional **MySQL** (operações completas de CRUD) para controle e conferência de fluxo operacional de cargas.
+
+---
 
 ### 📊 Estatísticas no GitHub
 
 <p align="left">
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=vGuixxz&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=vGuixxz&show_icons=true&theme=dark&locale=pt-br" 
     alt="Estatísticas do GitHub" 
   />
   <img 
     height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vGuixxz&theme=tokyonight&layout=compact&langs_count=4" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vGuixxz&theme=dark&layout=compact&langs_count=4" 
     alt="Linguagens mais utilizadas" 
   />
 </p>
