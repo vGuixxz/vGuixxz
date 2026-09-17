@@ -30,7 +30,7 @@ Tenho focado meus estudos em desenvolvimento de software backend com **Java** (P
   &nbsp;&nbsp;
   <img title="Git" alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   &nbsp;&nbsp;
-  <img title="GitHub" alt="GitHub" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" style="background-color: white; border-radius: 4px; padding: 2px;"/>
+  <img title="GitHub" alt="GitHub" width="40" height="40" src="https://skillicons.dev/icons?i=github"/>
   &nbsp;&nbsp;
   <img title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/>
 </p>
@@ -50,10 +50,5 @@ Tenho focado meus estudos em desenvolvimento de software backend com **Java** (P
     height="160" 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=vGuixxz&show_icons=true&theme=dark&locale=pt-br" 
     alt="Estatísticas do GitHub" 
-  />
-  <img 
-    height="160" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vGuixxz&theme=dark&layout=compact&langs_count=4" 
-    alt="Linguagens mais utilizadas" 
   />
 </p>
